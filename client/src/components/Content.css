@@ -1,0 +1,33 @@
+.contentSection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.nameLabel{
+    margin-right: 10px;
+}
+.sectorSection{
+    margin-top: 20px;
+    display: flex;
+}
+.submitSection{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.agreeSection{
+    margin-right: 30px;
+}
+.agreeCheckBox{
+    margin-right: 10px;
+}
+.saveButton{
+    font-size: 18px;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.SelectBox{
+    font-family: 'monospace';
+}
